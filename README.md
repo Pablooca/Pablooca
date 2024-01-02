@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently studying the last year of Computer Engineering in Information Systems.<br>👯 I’m looking to collaborate in open source related projects.<br>
+🔭 I am currently studying the last year of Computer Engineering in Information Systems.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-oca) 
